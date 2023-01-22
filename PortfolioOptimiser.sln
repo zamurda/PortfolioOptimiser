@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "pfloptimiser-frontend", "pfloptimiser-frontend\pfloptimiser-frontend.esproj", "{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pfloptimiser-backend", "pfloptimiser-backend\pfloptimiser-backend.csproj", "{359779F2-976A-435B-8AF6-A333A6070DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E68BB7-5C62-488A-AE40-891C0B71FC5B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{359779F2-976A-435B-8AF6-A333A6070DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359779F2-976A-435B-8AF6-A333A6070DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359779F2-976A-435B-8AF6-A333A6070DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359779F2-976A-435B-8AF6-A333A6070DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CC6962-7ECE-4135-8C7C-C475E441FBE1}
+	EndGlobalSection
+EndGlobal
